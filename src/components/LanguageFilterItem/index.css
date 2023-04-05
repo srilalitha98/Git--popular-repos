@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.button {
+  border: none;
+  margin-right: 15px;
+  background-color: transparent;
+}
+.active-btn {
+  color: #0284c7;
+  border: 1px solid #0284c7;
+  border-radius: 4px;
+}
